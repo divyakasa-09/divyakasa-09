@@ -10,10 +10,6 @@ I am proficient in a wide range of programming languages, technologies, and tool
 #####  ⚙️ Technologies : REST APIs, Web Services, HTTP, Agile, Git, Redux, Machine Learning
 #####  🛢️ Databases : MySQL | SQL SERVER | MongoDB
 #####  🔧 Tools : Git | GitHub | Visual Studio | VS Code
-#####  🛠️ Projects
-I've worked on diverse projects including:
-- I'm passionate about leveraging technology to create meaningful impact. From developing a web application for temporary renting of places
-- Price Tracker to get realtime updates when product is recorded lowest
 #####  👨‍💼 Work Experience
 
 I have honed my skills through practical experience as a Full Stack Software Engineer at Cognizant, where I actively contributed to the development and enhancement of Ed-Tech web applications. Additionally, my involvement in personal projects has allowed me to apply my technical expertise to solve real-world problems and explore emerging technologies.
