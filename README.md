@@ -5,20 +5,15 @@ I'm a passionate software developer with a knack for crafting innovative solutio
 Currently pursuing a Master of Science in Information Systems at Northeastern University, Boston, with an expected graduation in December 2024. My academic journey has provided me with a strong foundation in software engineering principles and best practices.
 #####  💻 Technical Skills
 I am proficient in a wide range of programming languages, technologies, and tools, including:
-
 #####  ⚙️ Languages :  HTML | CSS | TypeScript | JavaScript (ECMAScript) | ES Modules | C# | Java | Python | SASS/SCSS | XML
-#####  ⚙️ Technologies : .NET | jQuery | Entity Framework | Node.js | Next.js | AngularJS | React | ExpressJS | Plotly.js | HighCharts
+#####  ⚙️ Frameworks/Library : .NET | jQuery | Entity Framework | Node.js | Next.js | AngularJS | React | ExpressJS | Plotly.js | HighCharts
+#####  ⚙️ Technologies : REST APIs, Web Services, HTTP, Agile, Git, Redux, Machine Learning
 #####  🛢️ Databases : MySQL | SQL SERVER | MongoDB
 #####  🔧 Tools : Git | GitHub | Visual Studio | VS Code
 #####  🛠️ Projects
-
 I've worked on diverse projects including:
-
 - I'm passionate about leveraging technology to create meaningful impact. From developing a web application for temporary renting of places
 - Price Tracker to get realtime updates when product is recorded lowest
-
-These projects demonstrate my skills in data engineering, visualization, and machine learning.
-
 #####  👨‍💼 Work Experience
 
 I have honed my skills through practical experience as a Full Stack Software Engineer at Cognizant, where I actively contributed to the development and enhancement of Ed-Tech web applications. Additionally, my involvement in personal projects has allowed me to apply my technical expertise to solve real-world problems and explore emerging technologies.
