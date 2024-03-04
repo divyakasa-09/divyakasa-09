@@ -10,51 +10,26 @@ Currently pursuing a Master of Science in Information Systems at Northeastern Un
 
 I am proficient in a wide range of programming languages, technologies, and tools, including:
 
-- HTML
-- CSS
-- TypeScript
-- JavaScript (ECMAScript)
-- ES Modules
-- C#
-- Java
-- Python
-- SASS
-- XML
+- HTML | CSS | TypeScript | JavaScript (ECMAScript) | ES Modules | C# | Java | Python | SASS/SCSS | XML
 
 ## ⚙️ Technologies
 
-- .NET
-- jQuery
-- Entity Framework
-- Node.js
-- Next.js
-- AngularJS
-- React
-- ExpressJS
-- Plotly.js
-- HighCharts
+- .NET | jQuery | Entity Framework | Node.js | Next.js | AngularJS | React | ExpressJS | Plotly.js | HighCharts
 
 ## 🛢️ Databases
 
-- MySQL
-- SQL SERVER
-- MongoDB
+- MySQL | SQL SERVER | MongoDB
 
 ## 🔧 Tools
 
-- Git
-- GitHub
-- Markdown
-- Visual Studio
-- VS Code
+- Git | GitHub | Visual Studio | VS Code
 
 ## 🛠️ Projects
 
 I've worked on diverse projects including:
 
-- Data pipelines for processing stock market data
-- Developing transport management systems
-- Predicting cricket player performance using machine learning techniques
+- I'm passionate about leveraging technology to create meaningful impact. From developing a web application for temporary renting of places
+- Price Tracker to get realtime updates when product is recorded lowest
 
 These projects demonstrate my skills in data engineering, visualization, and machine learning.
 
@@ -68,7 +43,8 @@ I am enthusiastic about the prospect of leveraging my skills and experience to c
 
 ## 👀🏻‍💻 Visitor Count
 
-Hello world
+![visitors](https://visitor-badge.glitch.me/badge?page_id=divyakasa-09.divyakasa-09)
+
 
 ## 📫 Connect
 
