@@ -6,6 +6,10 @@
 ## About Me 💫
 Software Engineer specializing in Full-Stack Development, Cloud Computing, and Data Engineering. Currently building scalable data pipelines and cloud infrastructure at Acadian Asset Management while pursuing MS in Information Systems at Northeastern University. Experienced in processing millions of daily transactions and optimizing system performance across diverse tech stacks.
 
+
+💡 Currently seeking Full-Time Software Engineer opportunities starting May 2025!
+
+
 ## 🔧 Technologies & Tools
 
 ### Languages
@@ -89,10 +93,4 @@ Software Engineer specializing in Full-Stack Development, Cloud Computing, and D
 - 📧 [Email](mailto:divyakasa.edu@gmail.com)
 
 ---
-💡 Currently seeking Full-Time Software Engineer opportunities starting May 2025!
-#####  👀🏻‍💻 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/divyakasa-09/count.svg)
-
-
-<p align="left">Hello World!!</p>
