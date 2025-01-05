@@ -2,8 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-kasa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://divyakasa.com)
-[![GitHub](https://img.shields.io/github/followers/divyakasa-09?style=for-the-badge&logo=github)](https://github.com/divyakasa-09)
-[![Medium Blog](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://medium.com/@divyakasa.edu)
+[![Medium Blog](https://img.shields.io/badge/Medium-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://medium.com/@divyakasa.edu)
 ---
 
 ## 🌟 About Me
@@ -73,6 +72,12 @@ I’m currently seeking **full-time Software Engineer opportunities starting May
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyakasa-09&layout=compact&theme=radical)
 
 ---
+## 📊 GitHub Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=divyakasa-09&theme=rogue)
+
+---
+
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/divya-kasa)
