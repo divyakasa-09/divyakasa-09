@@ -85,7 +85,7 @@ I’m currently seeking **full-time Software Engineer opportunities starting May
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyakasa-09&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyakasa-09&layout=compact&theme=radical)
 
 
