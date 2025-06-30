@@ -1,7 +1,6 @@
 # Hi there, I'm Divya Kasa 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-kasa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://divyakasa.com)
 [![Medium Blog](https://img.shields.io/badge/Medium-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://medium.com/@divyakasa.edu)
 ---
 
