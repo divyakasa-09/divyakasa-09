@@ -54,7 +54,7 @@ I’m currently seeking **full-time Software Engineer opportunities starting May
 ![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ### **AI/ML & Analytics**
-![Machine Learning](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=flat&logo=machine-learning&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-008080?style=flat&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-282828?style=flat&logo=faiss&logoColor=white)
