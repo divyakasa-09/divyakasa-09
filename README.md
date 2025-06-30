@@ -94,5 +94,4 @@ I’m currently seeking **full-time Software Engineer opportunities starting May
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/divya-kasa)
-- 🌐 [Portfolio](https://divyakasa.com)
 - 📧 [Email](mailto:divyakasa.edu@gmail.com)
