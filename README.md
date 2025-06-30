@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-Hi! I'm **Divya Kasa**, a **Software Engineer** specializing in **AI/ML Applications**, **Distributed Systems**, **Cloud-Native Solutions** and **Data Pipelines**. I am skilled in designing and implementing **MAchine Learning Algorithms**, **real-time data pipelines**, and **cloud-first solutions** using technologies like **OpenAI GPT**, **AWS**, and **Azure**.
+Hi! I'm **Divya Kasa**, a **Software Engineer** specializing in **AI/ML Applications**, **Distributed Systems**, **Cloud-Native Solutions** and **Data Pipelines**. I am skilled in designing and implementing **Machine Learning Algorithms**, **data pipelines**, and **cloud-first solutions** using technologies like **OpenAI GPT**, **AWS**, and **Azure**.
 
 I’m currently seeking **full-time Software Engineer opportunities starting May 2025**
 
@@ -54,6 +54,7 @@ I’m currently seeking **full-time Software Engineer opportunities starting May
 ![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ### **AI/ML & Analytics**
+![Machine Learning](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-008080?style=flat&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-282828?style=flat&logo=faiss&logoColor=white)
