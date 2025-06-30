@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-Hi! I'm **Divya Kasa**, a **Software Engineer** specializing in **Distributed Systems**, **Cloud-Native Solutions**, **Data Pipelines**, and **AI/ML Applications**. I am skilled in designing and implementing **fault-tolerant systems**, **real-time data pipelines**, and **cloud-first solutions** using technologies like **OpenAI GPT**, **AWS**, and **Azure**.
+Hi! I'm **Divya Kasa**, a **Software Engineer** specializing in **AI/ML Applications**, **Distributed Systems**, **Cloud-Native Solutions** and **Data Pipelines**. I am skilled in designing and implementing **MAchine Learning Algorithms**, **real-time data pipelines**, and **cloud-first solutions** using technologies like **OpenAI GPT**, **AWS**, and **Azure**.
 
 I’m currently seeking **full-time Software Engineer opportunities starting May 2025**
 
